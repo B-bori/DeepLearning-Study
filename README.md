@@ -41,11 +41,11 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - RMSProp
 - Adam
 - L-BFGS
+- Use of lr scheduler
 
 ### Experiment
 - Cross Validation
 - Lasso/Ridge Regularization
-- Use of lr scheduler
 - Hyperparameter Tuning
   - Grid Tuning
   - Random Tuning
@@ -84,10 +84,11 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 ### Presentation
 - Find some papers from NIPS, ICCV, SIGGRAPH, ICML, IEEE, ICLR, AAAI
 
-# Thanks to
+## Thanks to
 [Deeplearning StandAlone](https://github.com/heartcored98/Standalone-DeepLearning)
 
-# References
+[Tensorflow Korea Paper Reading](https://www.youtube.com/playlist?list=PL0oFI08O71gKjGhaWctTPvvM7_cVzsAtK)
+## References
 [Reinforcement Learning](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
 
 [Bayesian Optimization](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
