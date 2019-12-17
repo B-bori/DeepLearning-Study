@@ -14,10 +14,9 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 7. CNN : Advanced
 8. RNN : Introduction and Implementation
 9. RNN : Advanced
-10. Attention is all you need
-11. Further study : Other networks
-12. Further study : Other methods
-13. Individual Presentation
+10. Further study : Other networks
+11. Further study : Other methods
+12. Individual Presentation
 
 ## Detailed Plan
 
@@ -27,6 +26,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - Problems in DL : Classification, Clustering, Generative Model
 - Feed Forward and Backpropagation
 - Hidden theory for DL : Universal Approximation Theorem
+- How torch works
 
 ### MLP
 - What is MLP?
@@ -75,6 +75,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - Memory Augmented Neural Network
 - Deconvolutional Neural Network
 - Modular Neural Network
+- How to implement user-defined layer & loss
 
 ### Other methods
 - Reinforcement Learning
