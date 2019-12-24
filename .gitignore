@@ -1,0 +1,17 @@
+# Compiled Python files
+__pycache__
+
+# LaTex related files
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+*.out
+*.tex
+
+out/
+
+# My memos
+*.txt
