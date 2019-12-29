@@ -1,6 +1,8 @@
 # DeepLearning-Study
 This repository is source forge for deep learning study held in KAIST, Mathematical Problem Solving Club in 2019 winter semester.
 
+For those who are not attending this study, but would like to use this repository for your deep learning self study, I separated theoritical parts to lecture notes and practical parts to jupyter notebook practices. I recommend looking both, but it would be enough to see only one. 
+
 ## How-to
 We will use pytorch as basic tools. Large parts of code will be jupyter notebook. 
 
@@ -34,6 +36,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - What is loss function?
 - Simple example using MLP : MNIST
 - Batchnorm and Dropout
+- Weight Initilization
 
 ### SGD
 - Momentum
@@ -43,6 +46,8 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - Adam
 - L-BFGS
 - Non Gradient Descent optimizer
+  - Genetic Algorithm
+  - ADMM
 - Use of lr scheduler
 
 ### Experiment
