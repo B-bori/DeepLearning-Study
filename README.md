@@ -5,8 +5,8 @@ This repository is source forge for deep learning study held in KAIST, Mathemati
 We will use pytorch as basic tools. Large parts of code will be jupyter notebook. 
 
 ## Tentative Schedule
-1. Introduction : What is DL?
-2. MLP : Introduction and Implementation
+1. Introduction : What is DL? [Lecture1](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA1/LectureA1.pdf)
+2. MLP : Introduction and Implementation [Lecture2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2.pdf)
 3. MLP : Advanced
 4. SGD : Introduction and advanced SGD
 5. Hyperparameter Tuning and How to experiment
@@ -31,6 +31,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 ### MLP
 - What is MLP?
 - What is Activation Function?
+- What is loss function?
 - Simple example using MLP : MNIST
 - Batchnorm and Dropout
 
@@ -41,6 +42,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - RMSProp
 - Adam
 - L-BFGS
+- Non Gradient Descent optimizer
 - Use of lr scheduler
 
 ### Experiment
