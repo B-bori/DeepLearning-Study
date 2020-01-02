@@ -1,16 +1,16 @@
 # DeepLearning-Study
 This repository is source forge for deep learning study held in KAIST, Mathematical Problem Solving Club in 2019 winter semester.
 
-For those who are not attending this study, but would like to use this repository for your deep learning self study, I separated theoritical parts to lecture notes and practical parts to jupyter notebook practices. I recommend looking both, but it would be enough to see only one. 
+For those who are not attending this study, but would like to use this repository for your deep learning self study, I separated theoritical parts to lecture notes and practical parts to jupyter notebook practices. I recommend looking both, but it would be enough to see only one.
 
 ## How-to
-We will use pytorch as basic tools. Large parts of code will be jupyter notebook. 
+We will use pytorch as basic tools. Large parts of code will be jupyter notebook.
 
 ## Tentative Schedule
 1. Introduction : What is DL? [Lecture1](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA1/LectureA1.pdf) [Practice1](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA1/ExA1.ipynb)
 2. MLP : Introduction and Implementation [Lecture2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2.pdf) [Practice2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2_1.ipynb)
-3. MLP : Advanced
-4. SGD : Introduction and advanced SGD
+3. MLP : Advanced [Practice3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/ExA2_2.ipynb)
+4. SGD : Introduction and advanced SGD [Lecture3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/LectureA3.pdf)
 5. Hyperparameter Tuning and How to experiment
 6. CNN : Introduction and Implementation
 7. CNN : Advanced
@@ -47,7 +47,6 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 - L-BFGS
 - Non Gradient Descent optimizer
   - Genetic Algorithm
-  - ADMM
 - Use of lr scheduler
 
 ### Experiment
@@ -58,6 +57,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
   - Random Tuning
   - Bayesian optimization
 - Collecting data
+  - Preprocessing
   - Benchmarks
   - Data Mining
 - Tensorboard
