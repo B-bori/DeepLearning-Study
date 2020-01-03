@@ -10,7 +10,7 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 1. Introduction : What is DL? [Lecture1](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA1/LectureA1.pdf) [Practice1](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA1/ExA1.ipynb)
 2. MLP : Introduction and Implementation [Lecture2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2.pdf) [Practice2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2_1.ipynb)
 3. MLP : Advanced [Practice3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/ExA2_2.ipynb)
-4. SGD : Introduction and advanced SGD [Lecture3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/LectureA3.pdf)
+4. SGD : Introduction and advanced SGD [Lecture3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/LectureA3.pdf) [Practice3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/ExA3.ipynb)
 5. Hyperparameter Tuning and How to experiment
 6. CNN : Introduction and Implementation
 7. CNN : Advanced
