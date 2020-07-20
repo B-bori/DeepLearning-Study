@@ -11,12 +11,12 @@ We will use pytorch as basic tools. Large parts of code will be jupyter notebook
 2. MLP : Introduction and Implementation [Lecture2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2.pdf) [Practice2](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/LectureA2_1.ipynb)
 3. MLP : Advanced [Practice3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA2/ExA2_2.ipynb)
 4. SGD : Introduction and advanced SGD [Lecture3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/LectureA3.pdf) [Practice3](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA3/ExA3.ipynb)
-5. Hyperparameter Tuning and How to experiment
-6. CNN : Introduction and Implementation
+5. Hyperparameter Tuning and How to experiment [Lecture4](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA4/LectureA4.pdf)
+6. CNN : Introduction and Implementation [Lecture5](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA5/LectureA5.pdf)
 7. CNN : Advanced
-8. RNN : Introduction and Implementation
+8. RNN : Introduction and Implementation [Lecture6](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA6/LectureA6.pdf)
 9. RNN : Advanced
-10. Further study : Other networks
+10. Further study : Other networks [Lecture7](https://github.com/mekty2012/DeepLearning-Study/blob/master/LectureA7/LectureA7.pdf)
 11. Further study : Other methods
 12. Individual Presentation
 
